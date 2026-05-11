@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Elisha
 
-<!--
-**Elisha10muthomi/Elisha10muthomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science / Software Engineering Student
+💻 Passionate about Programming, AI, Cybersecurity & Web Development
+📍 Based in Nairobi, Kenya
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning:
+
+  * Full Stack Development
+  * Artificial Intelligence & Expert Systems
+  * Cybersecurity
+  * Database Systems
+
+* 🔭 Working on:
+
+  * Expert systems projects
+  * Web applications
+  * Open-source practice projects
+
+* 🎯 Goals:
+
+  * Become a skilled software engineer
+  * Contribute to open source
+  * Build impactful tech solutions
+
