@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning:
+* 🌱 What I Do:
 
   * Full Stack Development
   * Artificial Intelligence & Expert Systems
