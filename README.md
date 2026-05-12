@@ -47,12 +47,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Elisha10muthomi&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Elisha10muthomi&theme=tokyonight&no-frame=true&row=1&column=6)
